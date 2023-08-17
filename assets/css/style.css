@@ -1221,10 +1221,14 @@ img{
   margin-bottom: 25px;
 }
 .best-overly-item i{
-  background: #a6b3e44a;
+  background: #c1c7db4a;
   color: var(--color-4);
   font-size: 22px;
-  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 55px;
+  height: 55px;
   border-radius: 50%;
   margin-right: 15px;
 }
@@ -1818,8 +1822,17 @@ img{
 	    flex-wrap: nowrap;
   justify-items: center;
 }
-.left-details-area .phne-email .details-phne {
+.left-details-area .phne-email i {
 	margin-right: 10px;
+  width: 45px;
+  height: 45px;
+  color: var(--color-2);
+  background: #e9f6fb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  font-size: 18px;
 }
 .left-details-area .phne-email .phne-bottom {
 	margin-bottom: 0;
@@ -1835,15 +1848,6 @@ img{
 .left-details-area .phne-email .hello a:hover{
   color: #646b79;
 }
-.left-details-area .phne-email .details-phne i {
-	color: #6E9EFA;
-	background: #e9f6fb;
-	padding: 10px;
-	border-radius: 50px;
-  font-family: 'DM Sans', sans-serif;
-}
-
-
 .main-details {
 	margin-left: 60px;
 	margin-right: 50px;

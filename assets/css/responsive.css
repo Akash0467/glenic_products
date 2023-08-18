@@ -474,6 +474,14 @@
     .help-line-list ul li {
         font-size: 20px;
     }
+    #main-images-file .owl-prev{
+        top: 40%;
+        left: 1%;
+      }
+      #main-images-file .owl-next{
+        top: 40%;
+        right: 1%;
+      }
     .footer-area-input-icon a {
         left: 94%;
     }

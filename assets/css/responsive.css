@@ -8,6 +8,9 @@
     .about-bottom-item p{
         left: 46%;
     }
+    .images.testimonial-image1 {
+      padding: 10px 35px;
+    }
 }
 @media all and (max-width:1300px){
     .about-bottom-item h1{
@@ -35,6 +38,9 @@
     }
     .service-item{
         padding: 15px 5px;
+    }
+    .images.testimonial-image1 {
+        padding: 10px 10px;
     }
 }
 
@@ -344,8 +350,8 @@
         grid-template-columns: 1fr;
     }
     .images.testimonial-image1 {
-        -webkit-box-shadow: 0px 97px 41px #1f0b0b2e;
-                box-shadow: 0px 97px 41px #1f0b0b2e;
+        -webkit-box-shadow: 0px 0px 50px #ffffff;
+                box-shadow: 0px 0px 50px #ffffff;
         padding: 20px;
     }
     .images.testimonial-image1 p{

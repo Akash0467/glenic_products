@@ -354,6 +354,9 @@
                 box-shadow: 0px 0px 50px #ffffff;
         padding: 20px;
     }
+    .next-prev2{
+        display: none;
+    }
     .images.testimonial-image1 p{
         max-width: 70%;
     }

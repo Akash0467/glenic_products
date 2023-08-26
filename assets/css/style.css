@@ -538,6 +538,7 @@ img{
 }
 .appiontment-items h6{
   color: var(--color-2);
+  margin-bottom: 20px;
 }
 .appiontment-items h2{
   max-width: 67%;
